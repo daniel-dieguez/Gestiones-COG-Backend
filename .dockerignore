@@ -1,4 +1,5 @@
-﻿**/.dockerignore
+﻿# Archivos y carpetas específicas del sistema de desarrollo
+**/.dockerignore
 **/.env
 **/.git
 **/.gitignore
@@ -11,15 +12,24 @@
 **/*.*proj.user
 **/*.dbmdl
 **/*.jfm
-**/azds.yaml
+**/*.suo
+**/*.user
+
+# Archivos y carpetas de compilación
 **/bin
-**/charts
-**/docker-compose*
-**/Dockerfile*
+**/obj
+
+# Archivos de frontend
 **/node_modules
 **/npm-debug.log
-**/obj
+
+# Archivos específicos de Docker y Kubernetes
+**/azds.yaml
 **/secrets.dev.yaml
 **/values.dev.yaml
+**/docker-compose*
+
+# Otros archivos innecesarios
 LICENSE
+logs/
 README.md

@@ -166,3 +166,4 @@ D:\4)Proyectos\BackEnd\C #\2.proyectos\6. Gestiones\Gestiones\Gestiones\obj\Debu
 D:\4)Proyectos\BackEnd\C #\2.proyectos\6. Gestiones\Gestiones\Gestiones\obj\Debug\net8.0\Gestiones.pdb
 D:\4)Proyectos\BackEnd\C #\2.proyectos\6. Gestiones\Gestiones\Gestiones\obj\Debug\net8.0\Gestiones.genruntimeconfig.cache
 D:\4)Proyectos\BackEnd\C #\2.proyectos\6. Gestiones\Gestiones\Gestiones\obj\Debug\net8.0\ref\Gestiones.dll
+D:\4)Proyectos\BackEnd\C #\2.proyectos\6. Gestiones\Gestiones\Gestiones\obj\Debug\net8.0\Gestiones.sourcelink.json
